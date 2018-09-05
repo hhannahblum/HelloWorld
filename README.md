@@ -23,7 +23,7 @@ It also has two lines of text within the paragraph. </p>
 
 <p style = "font-size: 160%"> This is an unnecesarily large paragraph.</p>
 
-<a p> _____________________________________________________________________________________________________</p>
+<a p> ________________________________________________________________________________________________________________________________________</p>
 
 <pre>
   My Bonnie lies over the ocean.
